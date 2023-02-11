@@ -14,9 +14,9 @@ Use the arrow keys to move the player around the canvas. The goal of the game is
 
 ## Built With
 
-- JavaScript
-- HTML5
-- CSS3
+- JavaScript---
+- HTML5---
+- CSS3---
 
 ## Author
 
