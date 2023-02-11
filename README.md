@@ -18,7 +18,7 @@ Use the arrow keys to move the player around the canvas. The goal of the game is
 - HTML5
 - CSS3
 
-## Author
+## Author---
 
 - Mori Isaac Wesonga
 
